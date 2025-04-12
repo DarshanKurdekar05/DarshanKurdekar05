@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DarshanKurdekar05
-- 👀 I’m interested in ...Web developing
-- 🌱 I’m currently learning ...HTML5,CSS3,JavaScrip,React.js
-- 💞️ I’m looking to collaborate on ...front end things..
+- 👀 I’m intrested in Cloud Automations
 - 📫 How to reach me ...@DarshanKurdekar05
 
 <!---
